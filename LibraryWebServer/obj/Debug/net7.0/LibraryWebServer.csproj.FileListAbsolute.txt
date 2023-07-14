@@ -1,0 +1,84 @@
+/Users/howard/MSD-2022-2023/CS6016/Lab8_Scaffolding_LINQ_ and_JSON/LibraryWebServer/bin/Debug/net7.0/appsettings.Development.json
+/Users/howard/MSD-2022-2023/CS6016/Lab8_Scaffolding_LINQ_ and_JSON/LibraryWebServer/bin/Debug/net7.0/appsettings.json
+/Users/howard/MSD-2022-2023/CS6016/Lab8_Scaffolding_LINQ_ and_JSON/LibraryWebServer/bin/Debug/net7.0/LibraryWebServer.staticwebassets.runtime.json
+/Users/howard/MSD-2022-2023/CS6016/Lab8_Scaffolding_LINQ_ and_JSON/LibraryWebServer/bin/Debug/net7.0/LibraryWebServer
+/Users/howard/MSD-2022-2023/CS6016/Lab8_Scaffolding_LINQ_ and_JSON/LibraryWebServer/bin/Debug/net7.0/LibraryWebServer.deps.json
+/Users/howard/MSD-2022-2023/CS6016/Lab8_Scaffolding_LINQ_ and_JSON/LibraryWebServer/bin/Debug/net7.0/LibraryWebServer.runtimeconfig.json
+/Users/howard/MSD-2022-2023/CS6016/Lab8_Scaffolding_LINQ_ and_JSON/LibraryWebServer/bin/Debug/net7.0/LibraryWebServer.dll
+/Users/howard/MSD-2022-2023/CS6016/Lab8_Scaffolding_LINQ_ and_JSON/LibraryWebServer/bin/Debug/net7.0/LibraryWebServer.pdb
+/Users/howard/MSD-2022-2023/CS6016/Lab8_Scaffolding_LINQ_ and_JSON/LibraryWebServer/bin/Debug/net7.0/Humanizer.dll
+/Users/howard/MSD-2022-2023/CS6016/Lab8_Scaffolding_LINQ_ and_JSON/LibraryWebServer/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/howard/MSD-2022-2023/CS6016/Lab8_Scaffolding_LINQ_ and_JSON/LibraryWebServer/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/howard/MSD-2022-2023/CS6016/Lab8_Scaffolding_LINQ_ and_JSON/LibraryWebServer/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/howard/MSD-2022-2023/CS6016/Lab8_Scaffolding_LINQ_ and_JSON/LibraryWebServer/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/howard/MSD-2022-2023/CS6016/Lab8_Scaffolding_LINQ_ and_JSON/LibraryWebServer/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/howard/MSD-2022-2023/CS6016/Lab8_Scaffolding_LINQ_ and_JSON/LibraryWebServer/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/howard/MSD-2022-2023/CS6016/Lab8_Scaffolding_LINQ_ and_JSON/LibraryWebServer/bin/Debug/net7.0/MySqlConnector.dll
+/Users/howard/MSD-2022-2023/CS6016/Lab8_Scaffolding_LINQ_ and_JSON/LibraryWebServer/bin/Debug/net7.0/Pomelo.EntityFrameworkCore.MySql.dll
+/Users/howard/MSD-2022-2023/CS6016/Lab8_Scaffolding_LINQ_ and_JSON/LibraryWebServer/bin/Debug/net7.0/System.CodeDom.dll
+/Users/howard/MSD-2022-2023/CS6016/Lab8_Scaffolding_LINQ_ and_JSON/LibraryWebServer/obj/Debug/net7.0/LibraryWebServer.csproj.AssemblyReference.cache
+/Users/howard/MSD-2022-2023/CS6016/Lab8_Scaffolding_LINQ_ and_JSON/LibraryWebServer/obj/Debug/net7.0/LibraryWebServer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/howard/MSD-2022-2023/CS6016/Lab8_Scaffolding_LINQ_ and_JSON/LibraryWebServer/obj/Debug/net7.0/LibraryWebServer.AssemblyInfoInputs.cache
+/Users/howard/MSD-2022-2023/CS6016/Lab8_Scaffolding_LINQ_ and_JSON/LibraryWebServer/obj/Debug/net7.0/LibraryWebServer.AssemblyInfo.cs
+/Users/howard/MSD-2022-2023/CS6016/Lab8_Scaffolding_LINQ_ and_JSON/LibraryWebServer/obj/Debug/net7.0/LibraryWebServer.csproj.CoreCompileInputs.cache
+/Users/howard/MSD-2022-2023/CS6016/Lab8_Scaffolding_LINQ_ and_JSON/LibraryWebServer/obj/Debug/net7.0/LibraryWebServer.MvcApplicationPartsAssemblyInfo.cache
+/Users/howard/MSD-2022-2023/CS6016/Lab8_Scaffolding_LINQ_ and_JSON/LibraryWebServer/obj/Debug/net7.0/LibraryWebServer.RazorAssemblyInfo.cache
+/Users/howard/MSD-2022-2023/CS6016/Lab8_Scaffolding_LINQ_ and_JSON/LibraryWebServer/obj/Debug/net7.0/LibraryWebServer.RazorAssemblyInfo.cs
+/Users/howard/MSD-2022-2023/CS6016/Lab8_Scaffolding_LINQ_ and_JSON/LibraryWebServer/obj/Debug/net7.0/staticwebassets/msbuild.LibraryWebServer.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/howard/MSD-2022-2023/CS6016/Lab8_Scaffolding_LINQ_ and_JSON/LibraryWebServer/obj/Debug/net7.0/staticwebassets/msbuild.build.LibraryWebServer.props
+/Users/howard/MSD-2022-2023/CS6016/Lab8_Scaffolding_LINQ_ and_JSON/LibraryWebServer/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.LibraryWebServer.props
+/Users/howard/MSD-2022-2023/CS6016/Lab8_Scaffolding_LINQ_ and_JSON/LibraryWebServer/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.LibraryWebServer.props
+/Users/howard/MSD-2022-2023/CS6016/Lab8_Scaffolding_LINQ_ and_JSON/LibraryWebServer/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/howard/MSD-2022-2023/CS6016/Lab8_Scaffolding_LINQ_ and_JSON/LibraryWebServer/obj/Debug/net7.0/staticwebassets.build.json
+/Users/howard/MSD-2022-2023/CS6016/Lab8_Scaffolding_LINQ_ and_JSON/LibraryWebServer/obj/Debug/net7.0/staticwebassets.development.json
+/Users/howard/MSD-2022-2023/CS6016/Lab8_Scaffolding_LINQ_ and_JSON/LibraryWebServer/obj/Debug/net7.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/howard/MSD-2022-2023/CS6016/Lab8_Scaffolding_LINQ_ and_JSON/LibraryWebServer/obj/Debug/net7.0/scopedcss/bundle/LibraryWebServer.styles.css
+/Users/howard/MSD-2022-2023/CS6016/Lab8_Scaffolding_LINQ_ and_JSON/LibraryWebServer/obj/Debug/net7.0/scopedcss/projectbundle/LibraryWebServer.bundle.scp.css
+/Users/howard/MSD-2022-2023/CS6016/Lab8_Scaffolding_LINQ_ and_JSON/LibraryWebServer/obj/Debug/net7.0/LibraryWebServer.csproj.CopyComplete
+/Users/howard/MSD-2022-2023/CS6016/Lab8_Scaffolding_LINQ_ and_JSON/LibraryWebServer/obj/Debug/net7.0/LibraryWebServer.dll
+/Users/howard/MSD-2022-2023/CS6016/Lab8_Scaffolding_LINQ_ and_JSON/LibraryWebServer/obj/Debug/net7.0/refint/LibraryWebServer.dll
+/Users/howard/MSD-2022-2023/CS6016/Lab8_Scaffolding_LINQ_ and_JSON/LibraryWebServer/obj/Debug/net7.0/LibraryWebServer.pdb
+/Users/howard/MSD-2022-2023/CS6016/Lab8_Scaffolding_LINQ_ and_JSON/LibraryWebServer/obj/Debug/net7.0/LibraryWebServer.genruntimeconfig.cache
+/Users/howard/MSD-2022-2023/CS6016/Lab8_Scaffolding_LINQ_ and_JSON/LibraryWebServer/obj/Debug/net7.0/ref/LibraryWebServer.dll
+/Users/howard/Documents/Github/Lab8_Scaffolding_LINQ_-and_JSON/LibraryWebServer/bin/Debug/net7.0/appsettings.Development.json
+/Users/howard/Documents/Github/Lab8_Scaffolding_LINQ_-and_JSON/LibraryWebServer/bin/Debug/net7.0/appsettings.json
+/Users/howard/Documents/Github/Lab8_Scaffolding_LINQ_-and_JSON/LibraryWebServer/bin/Debug/net7.0/LibraryWebServer.staticwebassets.runtime.json
+/Users/howard/Documents/Github/Lab8_Scaffolding_LINQ_-and_JSON/LibraryWebServer/bin/Debug/net7.0/LibraryWebServer
+/Users/howard/Documents/Github/Lab8_Scaffolding_LINQ_-and_JSON/LibraryWebServer/bin/Debug/net7.0/LibraryWebServer.deps.json
+/Users/howard/Documents/Github/Lab8_Scaffolding_LINQ_-and_JSON/LibraryWebServer/bin/Debug/net7.0/LibraryWebServer.runtimeconfig.json
+/Users/howard/Documents/Github/Lab8_Scaffolding_LINQ_-and_JSON/LibraryWebServer/bin/Debug/net7.0/LibraryWebServer.dll
+/Users/howard/Documents/Github/Lab8_Scaffolding_LINQ_-and_JSON/LibraryWebServer/bin/Debug/net7.0/LibraryWebServer.pdb
+/Users/howard/Documents/Github/Lab8_Scaffolding_LINQ_-and_JSON/LibraryWebServer/bin/Debug/net7.0/Humanizer.dll
+/Users/howard/Documents/Github/Lab8_Scaffolding_LINQ_-and_JSON/LibraryWebServer/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/howard/Documents/Github/Lab8_Scaffolding_LINQ_-and_JSON/LibraryWebServer/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/howard/Documents/Github/Lab8_Scaffolding_LINQ_-and_JSON/LibraryWebServer/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/howard/Documents/Github/Lab8_Scaffolding_LINQ_-and_JSON/LibraryWebServer/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/howard/Documents/Github/Lab8_Scaffolding_LINQ_-and_JSON/LibraryWebServer/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/howard/Documents/Github/Lab8_Scaffolding_LINQ_-and_JSON/LibraryWebServer/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/howard/Documents/Github/Lab8_Scaffolding_LINQ_-and_JSON/LibraryWebServer/bin/Debug/net7.0/MySqlConnector.dll
+/Users/howard/Documents/Github/Lab8_Scaffolding_LINQ_-and_JSON/LibraryWebServer/bin/Debug/net7.0/Pomelo.EntityFrameworkCore.MySql.dll
+/Users/howard/Documents/Github/Lab8_Scaffolding_LINQ_-and_JSON/LibraryWebServer/bin/Debug/net7.0/System.CodeDom.dll
+/Users/howard/Documents/Github/Lab8_Scaffolding_LINQ_-and_JSON/LibraryWebServer/obj/Debug/net7.0/LibraryWebServer.csproj.AssemblyReference.cache
+/Users/howard/Documents/Github/Lab8_Scaffolding_LINQ_-and_JSON/LibraryWebServer/obj/Debug/net7.0/LibraryWebServer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/howard/Documents/Github/Lab8_Scaffolding_LINQ_-and_JSON/LibraryWebServer/obj/Debug/net7.0/LibraryWebServer.AssemblyInfoInputs.cache
+/Users/howard/Documents/Github/Lab8_Scaffolding_LINQ_-and_JSON/LibraryWebServer/obj/Debug/net7.0/LibraryWebServer.AssemblyInfo.cs
+/Users/howard/Documents/Github/Lab8_Scaffolding_LINQ_-and_JSON/LibraryWebServer/obj/Debug/net7.0/LibraryWebServer.csproj.CoreCompileInputs.cache
+/Users/howard/Documents/Github/Lab8_Scaffolding_LINQ_-and_JSON/LibraryWebServer/obj/Debug/net7.0/LibraryWebServer.MvcApplicationPartsAssemblyInfo.cache
+/Users/howard/Documents/Github/Lab8_Scaffolding_LINQ_-and_JSON/LibraryWebServer/obj/Debug/net7.0/LibraryWebServer.RazorAssemblyInfo.cache
+/Users/howard/Documents/Github/Lab8_Scaffolding_LINQ_-and_JSON/LibraryWebServer/obj/Debug/net7.0/LibraryWebServer.RazorAssemblyInfo.cs
+/Users/howard/Documents/Github/Lab8_Scaffolding_LINQ_-and_JSON/LibraryWebServer/obj/Debug/net7.0/staticwebassets/msbuild.LibraryWebServer.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/howard/Documents/Github/Lab8_Scaffolding_LINQ_-and_JSON/LibraryWebServer/obj/Debug/net7.0/staticwebassets/msbuild.build.LibraryWebServer.props
+/Users/howard/Documents/Github/Lab8_Scaffolding_LINQ_-and_JSON/LibraryWebServer/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.LibraryWebServer.props
+/Users/howard/Documents/Github/Lab8_Scaffolding_LINQ_-and_JSON/LibraryWebServer/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.LibraryWebServer.props
+/Users/howard/Documents/Github/Lab8_Scaffolding_LINQ_-and_JSON/LibraryWebServer/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/howard/Documents/Github/Lab8_Scaffolding_LINQ_-and_JSON/LibraryWebServer/obj/Debug/net7.0/staticwebassets.build.json
+/Users/howard/Documents/Github/Lab8_Scaffolding_LINQ_-and_JSON/LibraryWebServer/obj/Debug/net7.0/staticwebassets.development.json
+/Users/howard/Documents/Github/Lab8_Scaffolding_LINQ_-and_JSON/LibraryWebServer/obj/Debug/net7.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/howard/Documents/Github/Lab8_Scaffolding_LINQ_-and_JSON/LibraryWebServer/obj/Debug/net7.0/scopedcss/bundle/LibraryWebServer.styles.css
+/Users/howard/Documents/Github/Lab8_Scaffolding_LINQ_-and_JSON/LibraryWebServer/obj/Debug/net7.0/scopedcss/projectbundle/LibraryWebServer.bundle.scp.css
+/Users/howard/Documents/Github/Lab8_Scaffolding_LINQ_-and_JSON/LibraryWebServer/obj/Debug/net7.0/LibraryWebServer.csproj.CopyComplete
+/Users/howard/Documents/Github/Lab8_Scaffolding_LINQ_-and_JSON/LibraryWebServer/obj/Debug/net7.0/LibraryWebServer.dll
+/Users/howard/Documents/Github/Lab8_Scaffolding_LINQ_-and_JSON/LibraryWebServer/obj/Debug/net7.0/refint/LibraryWebServer.dll
+/Users/howard/Documents/Github/Lab8_Scaffolding_LINQ_-and_JSON/LibraryWebServer/obj/Debug/net7.0/LibraryWebServer.pdb
+/Users/howard/Documents/Github/Lab8_Scaffolding_LINQ_-and_JSON/LibraryWebServer/obj/Debug/net7.0/LibraryWebServer.genruntimeconfig.cache
+/Users/howard/Documents/Github/Lab8_Scaffolding_LINQ_-and_JSON/LibraryWebServer/obj/Debug/net7.0/ref/LibraryWebServer.dll
