@@ -6,22 +6,22 @@
 
 
 <div class="col-md-12">
-  <table id="tblMyBooks" class="table table-striped">
-    <thead>
-      <tr>
-        <th align="left" class="productth">Title</th>
-        <th align="left" class="productth">Author</th>
-        <th align="left" class="productth">Serial</th>
-        <th align="left" class="productth">Options</th>
-      </tr>
-    </thead>
-  </table>
+    <table id="tblMyBooks" class="table table-striped">
+        <thead>
+            <tr>
+                <th align="left" class="productth">Title</th>
+                <th align="left" class="productth">Author</th>
+                <th align="left" class="productth">Serial</th>
+                <th align="left" class="productth">Options</th>
+            </tr>
+        </thead>
+    </table>
 </div>
 
 
 @section Scripts
   {
-  <script type="text/javascript">
+    <script type="text/javascript">
 
 
     function PopulateTable(tbl, books) {
@@ -40,7 +40,7 @@
 
         var td = document.createElement("td");
         td.appendChild(document.createTextNode(item.serial));
-        tr.appendChild(td);       
+        tr.appendChild(td);
 
 
         var td = document.createElement("td");
@@ -56,7 +56,7 @@
 
     }
 
-    
+
     function Return(serialInput) {
       $.ajax({
         type: 'POST',
@@ -76,12 +76,12 @@
       });
       return false;
     }
-    
-    
+
+
     $(function () {
       LoadData();
     });
-    
+
     function LoadData() {
       var tbl = document.getElementById("tblMyBooks");
       $.ajax({
@@ -89,7 +89,7 @@
         url: '@Url.Action("ListMyBooks", "Home")',
         dataType: 'json',
         success: function (data, status) {
-          //alert(JSON.stringify(data));
+          alert(JSON.stringify(data));
           PopulateTable(tblMyBooks, data);
         },
         error: function (ex) {
@@ -100,6 +100,6 @@
         }
         });
       return false;
-    } 
-  </script>
+    }
+    </script>
 }

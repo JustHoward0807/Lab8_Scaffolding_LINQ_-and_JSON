@@ -1,7 +1,9 @@
 ﻿using LibraryWebServer.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
+using System.Formats.Asn1;
 using System.Runtime.CompilerServices;
+using System.Text.Json.Serialization;
 
 [assembly: InternalsVisibleTo("TestProject1")]
 namespace LibraryWebServer.Controllers
@@ -36,6 +38,8 @@ namespace LibraryWebServer.Controllers
         {
             // TODO: Fill in. Determine if login is successful or not.
             bool loginSuccessful = false;
+            IEnumerable<Patrons> query = from p in db.Patrons where p.Name == name && p.CardNum == cardnum select p;
+            if (query.Any()) { loginSuccessful = true; }
 
             if (!loginSuccessful)
             {
@@ -76,9 +80,35 @@ namespace LibraryWebServer.Controllers
         public ActionResult AllTitles()
         {
 
-            // TODO: Implement
+            //TODO: Implement
+            //TODO: Rason check this if the output should be this correct
+            //HACK: Use this in SQL to see if correct: SELECT Patrons.Name, Titles.ISBN, Titles.Title, Titles.Author, Inventory.Serial FROM Titles LEFT JOIN Inventory ON Titles.ISBN = Inventory.ISBN LEFT JOIN CheckedOut ON Inventory.Serial = CheckedOut.Serial left join Patrons on Patrons.CardNum = CheckedOut.CardNum;
+            var query = from t in db.Titles
+                        join i in db.Inventory on t.Isbn equals i.Isbn into inventoryTitleGroup
+                        from itg in inventoryTitleGroup.DefaultIfEmpty()
+                        join c in db.CheckedOut on itg.Serial equals c.Serial into checkedOutGroup
+                        from cg in checkedOutGroup.DefaultIfEmpty()
+                        join p in db.Patrons on cg.CardNum equals p.CardNum into patronsGroup
+                        from pg in patronsGroup.DefaultIfEmpty()
+                        select new
+                        {
+                            Name = pg.Name ?? "",
+                            t.Isbn,
+                            t.Title,
+                            t.Author,
+                            Serial = itg != null ? (uint?)itg.Serial : null
+                        };
 
-            return Json(null);
+
+
+            //Debugging purporses
+            //foreach(var q in query)
+            //{
+            //    System.Diagnostics.Debug.WriteLine(q);
+            //}
+
+
+            return Json(query.ToArray());
 
         }
 
@@ -94,7 +124,8 @@ namespace LibraryWebServer.Controllers
         public ActionResult ListMyBooks()
         {
             // TODO: Implement
-            return Json(null);
+            var query = from c in db.CheckedOut where card == c.CardNum join i in db.Inventory on c.Serial equals i.Serial join t in db.Titles on i.Isbn equals t.Isbn select new { t.Title, t.Author, c.Serial };
+            return Json(query);
         }
 
 
@@ -111,6 +142,13 @@ namespace LibraryWebServer.Controllers
         {
             // You may have to cast serial to a (uint)
 
+            CheckedOut c = new()
+            {
+                Serial = (uint)serial,
+                CardNum = (uint)card
+            };
+            db.CheckedOut.Add(c);
+            db.SaveChanges();
 
             return Json(new { success = true });
         }

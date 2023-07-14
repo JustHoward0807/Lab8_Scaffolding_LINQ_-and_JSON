@@ -30,6 +30,7 @@ public partial class LibraryContext : DbContext
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
+
         modelBuilder
             .UseCollation("latin1_swedish_ci")
             .HasCharSet("latin1");
