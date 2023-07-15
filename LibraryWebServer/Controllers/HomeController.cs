@@ -164,7 +164,13 @@ namespace LibraryWebServer.Controllers
         public ActionResult ReturnBook(int serial)
         {
             // You may have to cast serial to a (uint)
-
+            CheckedOut c = new()
+            {
+                Serial = (uint)serial,
+                CardNum = (uint)card
+            };
+            db.CheckedOut.Remove(c);
+            db.SaveChanges();
             return Json(new { success = true });
         }
 
